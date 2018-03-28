@@ -2,4 +2,5 @@ var playlist = new Object({ Radiohead: 'There, There', SufjanStevens: 'Impossibl
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist['Slowdive'] = 'Alison'
+  playlist['My Bloody Valentine'] = ''
 }
