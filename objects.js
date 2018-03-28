@@ -1,1 +1,1 @@
-var playlist {"Sufjan Stevens": "Impossible Soul"};
+var playlist = new Object({ Sufjan Stevens: "Impossible Soul"});
