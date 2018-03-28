@@ -1,1 +1,1 @@
-var playlist {
+var playlist {"Sufjan Stevens": "Impossible Soul"};
